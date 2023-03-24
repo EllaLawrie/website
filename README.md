@@ -1,4 +1,4 @@
-# LIST FIVE SIGNIFICANT FEATURES OF REACT
+## LIST FIVE SIGNIFICANT FEATURES OF REACT
 
 - Component-based architecture: Reusable components are the foundation of React. An individual portion of the user interface is housed within a self-contained, modular piece of code known as a component. React makes it simpler to create and maintain complicated apps by decomposing the user interface into manageable, reusable components.
 
@@ -10,7 +10,7 @@
 
 - React Native: React can also be used to build native mobile apps using React Native. React Native allows developers to write mobile apps using the same component-based architecture and JSX syntax used in React web apps. This approach makes it easier to build cross-platform mobile apps and can reduce development time and cost.
 
-# LIST FIVE MAJOR ADVANTAGES OF REACT
+## LIST FIVE MAJOR ADVANTAGES OF REACT
 
 - SEO friendly: React provides a simple and straightforward way to handle server-side rendering, which makes it easier for search engines to crawl and index content. This can improve the search engine optimization (SEO) of your application.
 
@@ -22,11 +22,11 @@
 
 - React's JSX syntax is intuitive: React's JSX syntax is intuitive and easy to read, making it easier for developers to understand the code and collaborate with each other. The syntax is also similar to HTML, which can make it easier for designers to work with developers.
 
-# WHAT IS THE NAME OF THE SOFTWARE ENGINEER THAT CREATED REACT? ALSO, WHICH COMPANY OWNS REACT?
+## WHAT IS THE NAME OF THE SOFTWARE ENGINEER THAT CREATED REACT? ALSO, WHICH COMPANY OWNS REACT?
 
 - The name of the software engineer who created React is Jordan Walke, React was first developed by Jordan Walke, a software engineer at Facebook, in 2011 and React is an open-source project, meaning it is available for anyone to use and contribute to. Facebook continues to maintain and support the project, but ownership of the technology is not tied to any one company.
 
-# WHAT ARE THE NOTABLE DIFFERENCES BETWEEN HTML & JSX? GIVE AT LEAST 3 OF THEM
+## WHAT ARE THE NOTABLE DIFFERENCES BETWEEN HTML & JSX? GIVE AT LEAST 3 OF THEM
 
 - Self-closing tags: In HTML, some elements are self-closing, meaning they don't need a closing tag. For example, the <img> tag doesn't need a closing tag. In JSX, all elements must have a closing tag. However, you can use a self-closing syntax in JSX by adding a forward slash at the end of the opening tag, like this: <img src="example.jpg" />.
 
@@ -34,7 +34,7 @@
 
 - Syntax: HTML and JSX have different syntaxes. In HTML, you use angle brackets to define elements, and you use attributes to add additional properties to those elements. In JSX, you use angle brackets to define elements, but you use curly braces to embed JavaScript expressions within those elements.
 
-# WHY CAN'T BROWSERS READ JSX?
+## WHY CAN'T BROWSERS READ JSX?
 
 - JSX is a syntactic extension of JavaScript that allows you to write HTML-like code in your JavaScript code. When you write JSX, you are essentially writing a template that will be used to create actual HTML elements when the code is executed in the browser. In other words browsers cannot read JSX directly because it is not a valid JavaScript syntax that can be interpreted by the browser. JSX needs to be transformed into regular JavaScript code that the browser can read and execute and to convert JSX into regular JavaScript code, you need to use a tool like Babel. Babel can parse the JSX code and transform it into plain JavaScript code that the browser can read and execute.
 
